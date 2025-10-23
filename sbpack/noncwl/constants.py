@@ -1,5 +1,5 @@
 # ############################## Generic Bits ############################### #
-PACKAGE_SIZE_LIMIT = 100 * 1024 * 1024  # 100 MB
+PACKAGE_SIZE_LIMIT = 500 * 1024 * 1024  # 100 MB
 REMOVE_INPUT_KEY = "REMOVE_THIS_KEY"
 
 
